@@ -18,9 +18,6 @@
     <tracker><![CDATA[https://github.com/Scriptbash/QRaven/issues]]></tracker>
     <repository><![CDATA[https://github.com/Scriptbash/QRaven]]></repository>
     <tags><![CDATA[Hydrology,Raven,Modelling,Python,BasinMaker,Scraper,Simulation]]></tags>
-    <downloads>6</downloads>
-    <average_vote>0</average_vote>
-    <rating_votes>0</rating_votes>
     <external_dependencies></external_dependencies>
     <server>False</server>
   </pyqgis_plugin>
