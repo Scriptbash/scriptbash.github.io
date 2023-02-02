@@ -1,5 +1,5 @@
 <plugins> 
-  <pyqgis_plugin name="QRaven" version="2.2.0">
+  <pyqgis_plugin name="QRaven" version="2.3.0">
     <description><![CDATA[A QGIS Plugin to help generate input files for Raven]]></description>
     <about><![CDATA[QRaven aims to simplify the creation of the input files for the Raven hydrological modelling framework. It allows the user to choose all the options for the primary input file (.rvi) and it automates the setup, as well as the use of the BasinMaker python library for the HRU/Basin definition file (.rvh). It can run models, draw hydrographs and open RavenView using the default web browser. QRaven can also automatically fill the classed parameter input file (.rvp) using default values and it can generate grid weights blocks using the GridWeightGenerator script.]]></about>
     <version>2.3.0</version>
