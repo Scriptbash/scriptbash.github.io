@@ -21,7 +21,7 @@
     <external_dependencies></external_dependencies>
     <server>False</server>
   </pyqgis_plugin>
-  <pyqgis_plugin name="PluginExporter" version="0.1.0">
+  <pyqgis_plugin name="Plugin Exporter" version="0.1.0">
     <description><![CDATA[A QGIS plugin for exporting plugins]]></description>
     <about><![CDATA[PluginExporter is a QGIS plugin that can export installed plugins into a .csv or .json file. The user can export all the installed plugins or select the plugins they want to export. PluginExporter can also use the generated file to install the plugins back in QGIS.]]></about>
     <version>0.1.0</version>
