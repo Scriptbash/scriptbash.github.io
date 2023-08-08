@@ -23,7 +23,7 @@
   </pyqgis_plugin>
   <pyqgis_plugin name="Plugin Exporter" version="0.1.0">
     <description><![CDATA[A QGIS plugin for exporting plugins]]></description>
-    <about><![CDATA[PluginExporter is a QGIS plugin that can export installed plugins into a .csv or .json file. The user can export all the installed plugins or select the plugins they want to export. PluginExporter can also use the generated file to install the plugins back in QGIS.]]></about>
+    <about><![CDATA[Plugin Exporter is a QGIS plugin that can export installed plugins into a .csv or .json file. The user can export all the installed plugins or select the plugins they want to export. Plugin Exporter can also use the generated file to install the plugins back in QGIS.]]></about>
     <version>0.1.0</version>
     <qgis_minimum_version>3.28.0</qgis_minimum_version>
     <qgis_maximum_version>3.99.0</qgis_maximum_version>
