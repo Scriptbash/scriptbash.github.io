@@ -21,26 +21,4 @@
     <external_dependencies></external_dependencies>
     <server>False</server>
   </pyqgis_plugin>
-  <pyqgis_plugin name="Plugin Exporter" version="0.1.1">
-    <description><![CDATA[A QGIS plugin for exporting plugins]]></description>
-    <about><![CDATA[Plugin Exporter is a QGIS plugin that can export installed plugins into a .csv or .json file. The user can export all the installed plugins or select the plugins they want to export. Plugin Exporter can also use the generated file to install the plugins back in QGIS.]]></about>
-    <version>0.1.1</version>
-    <qgis_minimum_version>3.28.0</qgis_minimum_version>
-    <qgis_maximum_version>3.99.0</qgis_maximum_version>
-    <homepage><![CDATA[https://github.com/Scriptbash/PluginExporter]]></homepage>
-    <file_name>plugin_exporter.zip</file_name>
-    <icon><![CDATA[https://github.com/Scriptbash/PluginExporter/blob/main/plugin_exporter/icon.png?raw=true]]></icon>
-    <author_name><![CDATA[Francis Lapointe]]></author_name>
-    <download_url>https://github.com/Scriptbash/PluginExporter/releases/latest/download/plugin_exporter.zip</download_url>
-    <uploaded_by><![CDATA[Scriptbash]]></uploaded_by>
-    <create_date>2023-08-03T12:00:00</create_date>
-    <update_date>2023-08-07T22:00:00</update_date>
-    <experimental>False</experimental>
-    <deprecated>False</deprecated>
-    <tracker><![CDATA[https://github.com/Scriptbash/PluginExporter/issues]]></tracker>
-    <repository><![CDATA[https://github.com/Scriptbash/PluginExporter]]></repository>
-    <tags><![CDATA[Plugin, Python, json, csv, exporter, importer]]></tags>
-    <external_dependencies></external_dependencies>
-    <server>False</server>
-  </pyqgis_plugin>
 </plugins>
